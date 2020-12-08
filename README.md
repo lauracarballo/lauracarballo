@@ -1,4 +1,22 @@
-### Hi there 👋
+<h3 align="center">👋  Hi, I'm Laura</h3>
+<p align="center"><i>Business and Law graduate turned Web Developer</i></p>
+<p align="center">
+  <a href="https://lauracarballo.com">Website</a> •
+  <a href="https://twitter.com/lcarb14">Twitter</a>
+</p>
+
+---
+
+I’m a front end developer focusing on **HTML, CSS and JavaScript** to build responsive web applications.
+
+I’m most experienced with **React** and the **NextJS** framework.
+
+My current interests are **Design Systems**, **Web Accessibility** and **Serverless (AWS Lambda/DynamoDB)**.
+
+
+
+
+
 
 <!--
 **lauracarballo/lauracarballo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
