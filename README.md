@@ -2,7 +2,8 @@
 <p align="center"><i>Business and Law graduate turned Web Developer</i></p>
 <p align="center">
   <a href="https://lauracarballo.com">Website</a> •
-  <a href="https://twitter.com/lcarb14">Twitter</a>
+  <a href="https://twitter.com/lcarb14">Twitter</a> •
+  <a href="https://lauracarballo.com">LinkedIn</a> 
 </p>
 
 ---
