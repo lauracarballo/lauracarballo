@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://lauracarballo.com">Website</a> •
   <a href="https://twitter.com/lcarb14">Twitter</a> •
-  <a href="https://lauracarballo.com">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/laura-carballo-arjona-8b6808114/">LinkedIn</a> 
 </p>
 
 ---
